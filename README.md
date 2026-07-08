@@ -1,4 +1,4 @@
-# TravelSys — Full Stack Travel Management System
+# TravelSys: Full Stack Travel Management System
 
 A MERN stack application built with React.js, Node.js, Express.js, MongoDB, and JWT Authentication.
 
